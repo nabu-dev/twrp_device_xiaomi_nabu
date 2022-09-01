@@ -20,7 +20,7 @@ case $variant in
     "GLOBAL")
         load_nabu;
         ;;
-    "INDIA")
+    "CHINA")
         load_nabucn;
         ;;
     *)
